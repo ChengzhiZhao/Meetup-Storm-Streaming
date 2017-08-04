@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: javax.websocket:javax.websocket-client-api:1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/javax.websocket/javax.websocket-client-api/jars/javax.websocket-client-api-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/javax.websocket/javax.websocket-client-api/srcs/javax.websocket-client-api-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
