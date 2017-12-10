@@ -1,5 +1,8 @@
-# Longpull_Storm
+# Storm Live Streaming Meetup Data, Elastic Search and Kibana DashBoard
 This the Hackthon for Storm Part to consume data and push to ElasticSearch and Redis
+
+
+![Kibana Demo](https://github.com/ChengzhiZhao/Longpull_Storm/blob/master/resource/screenshot/Kibana_demo.gif)
 
 #### 1. Install ElasticSearch and Kibana
 
