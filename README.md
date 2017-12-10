@@ -8,6 +8,8 @@ This the Hackthon for Storm Part to consume data and push to ElasticSearch and R
 #### Pacman Demo
 ![Pacman_Demo](https://github.com/ChengzhiZhao/Longpull_Storm/blob/master/resource/screenshot/pacman.gif)
 
+Detail for PACMAN repo: https://github.com/ChengzhiZhao/pacman-for-Hackthon
+
 
 #### 1. Install ElasticSearch and Kibana
 

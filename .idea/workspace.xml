@@ -81,8 +81,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="120" lean-forward="false" selection-start-line="1" selection-start-column="120" selection-end-line="1" selection-end-column="120" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="75" lean-forward="false" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -660,7 +660,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512930882340</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Pacman">
+      <created>1512931002317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512931002317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -705,7 +712,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add new changes" />
     <MESSAGE value="Add Kibana Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Kibana Demo" />
+    <MESSAGE value="Add Pacman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Pacman" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1061,8 +1069,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="120" lean-forward="false" selection-start-line="1" selection-start-column="120" selection-end-line="1" selection-end-column="120" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="75" lean-forward="false" selection-start-line="10" selection-start-column="75" selection-end-line="10" selection-end-column="75" />
             <folding />
           </first_editor>
           <second_editor />
