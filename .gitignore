@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+
+.gitignore
+.idea
+project/target/scala-2.10/
+project/target/streams/compile/incCompileSetup/
+src/test/

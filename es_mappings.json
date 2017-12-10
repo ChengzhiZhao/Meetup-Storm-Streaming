@@ -1,0 +1,72 @@
+
+{
+  "mappings": {
+    "json-trips": {
+      "properties": {
+        "event_name":{
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword"
+            }
+          }
+        },
+        "event_time":{ "type": "text"  },
+        "event_url":{ "type": "text"  },
+        "group_city":{
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword"
+            }
+          }
+        },
+        "group_country": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword"
+            }
+          }
+        },
+        "group_name": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword"
+            }
+          }
+        },
+        "group_topics": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword"
+            }
+          }
+        },
+        "insert_date_time": { "type": "date"  },
+        "location": { "type": "geo_point"  },
+        "response": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword"
+            }
+          }
+        },
+        "update_date_time": { "type": "date"  },
+        "venue_lat": { "type": "long"  },
+        "venue_log": { "type": "long"  },
+        "venue_name": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword"
+            }
+          }
+        }
+      }
+    }
+  }
+}
